@@ -1,0 +1,1 @@
+{"version":3,"file":"1649772685348-AddImageToArticles.js","sourceRoot":"","sources":["../../src/migrations/1649772685348-AddImageToArticles.ts"],"names":[],"mappings":";;;AAEA,MAAa,+BAA+B;IAEjC,KAAK,CAAC,EAAE,CAAC,WAAwB;QACpC,WAAW,CAAC,KAAK,CAAC,6CAA6C,CAAC,CAAC;IACrE,CAAC;IAEM,KAAK,CAAC,IAAI,CAAC,WAAwB;QACtC,WAAW,CAAC,KAAK,CAAC,iCAAiC,CAAC,CAAC;IACzD,CAAC;CAEJ;AAVD,0EAUC"}
